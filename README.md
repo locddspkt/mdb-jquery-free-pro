@@ -25,7 +25,7 @@ Load the exact file for each component used
 ```
 
 ## Running the demo page
-
+https://hptsoft.com/mdb-jquery-free-pro/web/demo.php
 ## License
 
 This project is licensed under the MIT License
