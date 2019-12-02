@@ -20,6 +20,7 @@
 </style>
 <div class="container">
     <?php include 'demo_buttons.php' ?>
+    <?php include 'demo_loader_spinner.php' ?>
 </div>
 <?php include_once __DIR__ . '/../src/headers/mdb-core-js.tpl' ?>
 
